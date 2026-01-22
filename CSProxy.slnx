@@ -1,2 +1,4 @@
 <Solution>
+  <Project Path="PropertyProxy/PropertyProxy.csproj" />
+  <Project Path="ValueProxy/ValueProxy.csproj" />
 </Solution>
